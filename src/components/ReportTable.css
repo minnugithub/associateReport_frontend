@@ -1,0 +1,17 @@
+.table-btn{
+    background-color: rgba(97, 112, 97, 0.705);
+    color: white;
+    padding:1rem;
+    font-family: inherit;
+    font-weight:bold;
+    margin:1rem;
+    border:2px solid ;
+}
+.table-btn:hover{
+    border-color: rgb(40, 48, 40);
+    color: rgb(244, 248, 244);
+    background-color: rgb(105, 112, 90);
+}
+
+
+
